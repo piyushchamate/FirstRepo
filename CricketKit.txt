@@ -5,5 +5,12 @@ BALL
 STUMPS
 LEG GUARD 
 
+HELMET
+GOGALS
+
 Thank You!!
+
+Done my changes!!
+
 Final Copy
+
